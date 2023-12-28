@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/*
+
+paletas de cores
+verde: #49a09d
+Lilas: #5f2c82
+
+*/
+
+:root
+{
+    --cor-verde: #49a09d;
+    --cor-lilais: #5f2c82;
+}
+
+/*
+Mobile first!
+*/
